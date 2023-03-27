@@ -1,11 +1,25 @@
-/*  your css code here. If applicable */
-.device::before{
-	content: "Before Element";
-	color: red;
-	font-size: 20px;
+html{
+	background-color:skyblue;
 }
-.device::after{
-	content: "After Element";
-	color: red;
-	font-size: 20px;
+.first{
+	background-color:black;
+	color:white;
+}
+.last{
+	color:red;
+}
+.st{
+	background-color:white;
+}
+.second{
+	background-color:stalegrey;
+}
+.third{
+	background-color:pink;
+}
+.fourth{
+	background-color:stalegrey;
+}
+.fifth{
+	background-color:white;
 }

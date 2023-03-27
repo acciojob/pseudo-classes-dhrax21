@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.device::before{
+	content: "Before Element";
+	color: red;
+	font-size: 20px;
+}
+.device::after{
+	content: "After Element";
+	color: red;
+	font-size: 20px;
+}
